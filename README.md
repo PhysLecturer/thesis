@@ -1,0 +1,2 @@
+# thesis
+teza de licenta
